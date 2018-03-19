@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
-
 require "thx_cli"
+
+ThxCli::CLI.start
